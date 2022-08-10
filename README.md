@@ -15,3 +15,5 @@ use app.js print variable values
 
 ### Add NewsItem component
 Add NewsItem Component and refactor code ClassBased to FunctionBase
+
+>Done All Code convert ClassBased to FunctionBased
