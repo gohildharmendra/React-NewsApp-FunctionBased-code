@@ -12,3 +12,6 @@ Builds the app for production to the `build` folder.\
 Create .env File 
 Add one variable name REACT_APP_ENV_VAR
 use app.js print variable values
+
+### Add NewsItem component
+Add NewsItem Component and refactor code ClassBased to FunctionBase
