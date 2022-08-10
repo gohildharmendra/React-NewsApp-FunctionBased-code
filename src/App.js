@@ -2,12 +2,14 @@
 import Navbar from "./components/Navbar";
 import React from 'react'
 import {BrowserRouter, Routes, Route,} from "react-router-dom";
+import Spinner from "./components/Spinner";
 
 function App() {
   return (
     <>
     <BrowserRouter>
     <Navbar/>   
+    <Spinner/>
     <Routes>
           <Route exact path="/" element={<h1>Hello, Navbar Adding Done</h1>} />
           {/* <Route exact path="/business" element={<News key="business" apiKey={this.apiKey} pageSize={this.pageSize} country="in" category="business"/>} />      
