@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import loading from './loading.gif'
 
 const Spinner = () =>{
@@ -8,5 +8,4 @@ const Spinner = () =>{
         </div>
     )
 }
-
 export default Spinner

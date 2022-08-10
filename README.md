@@ -7,3 +7,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Builds the app for production to the `build` folder.\
 
 ### Add NavBar and User Router
+
+### Add .Env file and use it
+Create .env File 
+Add one variable name REACT_APP_ENV_VAR
+use app.js print variable values
